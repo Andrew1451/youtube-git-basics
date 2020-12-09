@@ -1,0 +1,20 @@
+.link {
+    color: black !important; 
+    font-size: 1.8rem;
+    margin-right: 13px;
+}
+
+.brand {
+    color: black !important;
+    font-size: 2.2rem !important;
+    margin-left: 16px !important;
+}
+
+.form {
+    width: 74%;
+    background: white;
+    padding: 54px;
+    padding-top: 29px;
+    margin: auto;
+    margin-top: 62px;
+}
